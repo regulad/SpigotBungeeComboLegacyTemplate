@@ -32,7 +32,7 @@ public class BungeePlugin extends Plugin {
         if (this.getConfig() == null) this.saveDefaultConfig();
         if (this.getConfig() == null) this.getLogger().warning("Couldn't load configuration!");
         // Setup bStats metrics
-        this.metrics = new Metrics(this, 12215); // TODO: Replace this in your plugin!
+        this.metrics = new Metrics(this, 13872); // TODO: Replace this in your plugin!
     }
 
     @Override
