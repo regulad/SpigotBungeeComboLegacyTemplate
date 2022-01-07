@@ -1,3 +1,3 @@
-# Spigot1.8.8Template
+# SpigotBungeeComboLegacyTemplate
 
-A template for plugins that use Spigot 1.8.8.
+A template for legacy (Minecraft<=1.8.8) Minecraft plugins that use both Spigot, BungeeCord, as well as a common module.

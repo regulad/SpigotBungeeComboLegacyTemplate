@@ -3,4 +3,4 @@ description: ${project.description}
 version: ${project.version}
 author: regulad # fixme
 
-main: ${project.groupId}.${project.artifactId}.${project.name}
+main: ${project.parent.groupId}.bungee.BungeePlugin
